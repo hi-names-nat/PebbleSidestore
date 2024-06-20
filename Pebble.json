@@ -5,7 +5,7 @@
     {
       "beta": false,
       "name": "Pebble",
-      "bundleIdentifier": "com.getpebble.pebbletime-iPhone13",
+      "bundleIdentifier": "com.getpebble.pebbletime",
       "developerName": "Pebble",
       "subtitle": "The Pebble application",
       "version": "v2.3.2",
