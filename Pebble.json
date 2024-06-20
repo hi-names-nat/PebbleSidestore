@@ -5,21 +5,22 @@
     {
       "beta": false,
       "name": "Pebble",
-      "bundleIdentifier": "com.getpebble.pebbletime",
-      "developerName": "Pebble",
-      "subtitle": "The Pebble application",
+      "bundleIdentifier": "com.getpebble.pebbletime-iPhone13",
+      "developerName": "Pebble / kennedn",
+      "subtitle": "The Pebble application for iOS 13+",
       "version": "v2.3.2",
-      "versionDate": "2024-05-13T22:26:00+02:00",
-      "versionDescription": "First try.",
+      "versionDate": "2024-06-20T16:20:00+05:00",
+      "versionDescription": "Updated for verbosity.",
       "downloadURL": "https://kennedn.com/com.getpebble.pebbletime-iPhone13.ipa",
-      "localizedDescription": "The app for Pebble phones",
-      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
-      "tintColor": "9b54fd",
-      "size": 26848,
+      "localizedDescription": "The Pebble application, now easily managed using SideStore.",
+      "iconURL": "https://hi-names-nat.github.io/PebbleSidestore/pebble-icon.png",
+      "tintColor": "333333",
+      "size": 27491799,
       "screenshotURLs": [
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
+        "https://hi-names-nat.github.io/PebbleSidestore/screenshots/IMG_0352.PNG",
+        "https://hi-names-nat.github.io/PebbleSidestore/screenshots/IMG_0353.PNG",
+        "https://hi-names-nat.github.io/PebbleSidestore/screenshots/IMG_0354.PNG",
+        "https://hi-names-nat.github.io/PebbleSidestore/screenshots/IMG_0355.PNG"
       ]
     }
   ]
